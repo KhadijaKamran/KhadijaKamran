@@ -4,8 +4,6 @@
 - 💻 I am currently working as an Outreachy intern at Linux Kernel. 
 - 🌱 I am working on Linux Kernel Security Subsystems and LSMs.
 - 👾 I have experience with Deep Learning projects as well.
-- 🏊‍♂️ I love to swim all my worries away.
-- 📚 I read books and write sometimes but only for myself :see_no_evil:
 
 #### Link to my latest Technical blogs: https://khadija498.wordpress.com/
 #### Contact me here
