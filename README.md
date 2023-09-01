@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-- 🔭 Khadija here! I am a Software Engineer and I have 2.5 years of experience in C#.
+- 🔭 Khadija here! I am a Software Engineer and I have 2.5 years of experience in C# developing backend and frontend of desktop applications.
 - 💻 I am currently working as an Outreachy intern at Linux Kernel. [May,23 - Aug,23]
 - 🌱 I am working on Linux Kernel Security Subsystems and LSMs.
 - 🤩 I am happy to call myself a Linux kernel Developer.
