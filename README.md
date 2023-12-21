@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 
 - 🔭 Khadija here! I am a Software Engineer and I have 3 years of experience working as a full stack developer.
-- 👩 I am working as a Software Developer with **Quantl** which is company that provides financial sevices.
+- 👩 I am working as a Software Developer for **Quantl**, a company that provides financial sevices.
 - 🎇 I am a django developer and work with a team on Quantl's website.
 - 💻 I have worked as an Outreachy intern at Linux Kernel. [May,23 - Aug,23]
 - 🌱 I have worked to improve Linux Kernel Security Subsystems and LSMs.
