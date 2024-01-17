@@ -8,7 +8,7 @@
 - 🤩 I am happy to call myself a Linux kernel Developer.
 - 👾 I have experience with Deep Learning projects as well.
 
-#### Link to my Linux Kernel Patches: https://github.com/KhadijaKamran/Analyzing-Linux-Security-Subsystems/wiki/Kernel-Patches](https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging.git/log/?h=staging-testing&qt=author&q=Khadija+Kamran
+#### Link to my Linux Kernel Patches: https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging.git/log/?h=staging-testing&qt=author&q=Khadija+Kamran
 
 
 #### Link to my latest Technical blogs: https://khadija498.wordpress.com/
